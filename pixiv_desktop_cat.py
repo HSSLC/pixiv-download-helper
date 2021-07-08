@@ -5,7 +5,6 @@ import re
 import os
 import bs4
 import json
-import os
 import pyperclip as clip
 
 def download(url):
