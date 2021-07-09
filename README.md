@@ -18,3 +18,5 @@ in there is a default filter for skip the size of image < 1080x1920
 if you want to download that artwork for your desktop image you may set that filter for higher resolution
 
 # just for personal using
+# more info
+https://incognitas.net/works/pixiv-download-helper-1/
